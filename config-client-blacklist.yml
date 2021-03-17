@@ -1,4 +1,3 @@
 config:
-  blacklist:
-    usernames:
-      - 'asd'
+  usernames:
+    - 'asd'
