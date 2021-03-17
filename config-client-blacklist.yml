@@ -1,5 +1,5 @@
 config:
   blacklist:
-    username:
+    usernames:
       - 'username-1'
       - 'username-2'
