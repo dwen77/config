@@ -1,5 +1,4 @@
 config:
   blacklist:
     usernames:
-      - 'username-1'
-      - 'username-2'
+      - 'asd'
