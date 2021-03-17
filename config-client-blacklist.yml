@@ -2,3 +2,4 @@ config:
   test: '1234'
   usernames:
     - 'asd'
+    - 'ddd'
