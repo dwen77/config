@@ -3,3 +3,4 @@ config:
   usernames:
     - 'asd'
     - 'ddd'
+    - 'ccc'
