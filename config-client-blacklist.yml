@@ -4,4 +4,4 @@ config:
     - 'asd'
     - 'ddd'
     - 'ccc'
-    -
+    - '123'
