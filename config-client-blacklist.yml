@@ -1,0 +1,4 @@
+config:
+  blockedCids:
+    - '123'
+    - '456'
