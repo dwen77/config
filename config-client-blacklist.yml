@@ -1,4 +1,4 @@
 config:
-  blockedCids:
+  cids:
     - '123'
     - '456'
