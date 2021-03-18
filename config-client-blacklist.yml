@@ -1,6 +1,6 @@
 config:
   test: '1234'
-  username:
+  usernames:
     - 'asd'
     - 'ddd'
     - 'ccc'
@@ -10,3 +10,4 @@ config:
     - '43333'
     - '33333333'
     - 'ffff'
+    - 'fdfdfdfd'
