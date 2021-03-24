@@ -11,3 +11,4 @@ config:
     - '33333333'
     - 'ffff'
     - 'not_ok1'
+    - 'not_ok2'
